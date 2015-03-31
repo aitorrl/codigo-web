@@ -4377,7 +4377,7 @@ input:focus:-ms-input-placeholder {
     width: 70%;
     border-top: 1px solid #ccc;
     margin: 0 auto;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
 }
 
 .section-titleb {
@@ -4396,6 +4396,19 @@ input:focus:-ms-input-placeholder {
 }
 
 img {
-    
-      transition: all 2.9s ease;
+    transition: all 2.9s ease;
 }
+
+strong {
+    color: #797979;
+}
+
+.diccionario-seccion p {
+margin-bottom: 2px;
+}
+
+.item-diccionario {
+  margin-top: 18px;
+  font-size: 16px;
+}
+
