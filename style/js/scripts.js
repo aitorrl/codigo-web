@@ -134,7 +134,7 @@ $(function() {
         $('html,body').animate({
           scrollTop: target.offset().top-51
         }, 1500, "easeOutBack");
-        page(target.selector);
+        //page(target.selector);
         return false;
       }
     }
